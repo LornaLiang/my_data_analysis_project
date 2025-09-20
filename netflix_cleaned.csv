@@ -1,7 +1,0 @@
-show_id,type,title,director,country,release_year,duration
-s1,Movie,Movie A,Dir1,United States,2019,90 min
-s2,TV Show,Show B,Dir2,India,2020,2 Seasons
-s3,Movie,Movie C,Dir1,United States,2018,120 min
-s4,Movie,Movie D,,Canada,2021,100 min
-s5,TV Show,Show E,Dir3,India,2019,1 Season
-s6,Movie,Movie F,Dir4,United Kingdom,2017,95 min
